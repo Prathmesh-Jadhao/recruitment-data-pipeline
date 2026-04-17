@@ -34,7 +34,7 @@ Raw Data → Processing → Transformation → Database → Dashboard
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard_(1).png)
+![Dashboard](assets/dashboard1.png)
 
 ## How to Run
 ```bash
