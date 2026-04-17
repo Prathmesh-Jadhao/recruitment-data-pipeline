@@ -27,6 +27,15 @@ Raw Data → Processing → Transformation → Database → Dashboard
 - sql/ → analysis queries
 - dashboard/ → Streamlit app
 
+## Sample Insights
+- Candidates with Python + SQL have higher selection rate
+- Experience positively correlates with interview score
+- Most demanded skills: Python, SQL, Machine Learning
+
+## Dashboard Preview
+
+![Dashboard](assets/dashboard(1).png)
+
 ## How to Run
 ```bash
 python src/ingestion/generate_data.py
